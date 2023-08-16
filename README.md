@@ -63,6 +63,7 @@ You can customize the appearance of the quotes by modifying the `quotes-of-the-d
 
 - Name: Nilanjan Roy
 - Website: [Pen & Parchment](https://penandparchment.space/author/nilanjan/)
+- Documentation: [Quotes of the Day](https://penandparchment.space/quotes-of-the-day/)
 
 ## License
 
