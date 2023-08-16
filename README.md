@@ -53,3 +53,4 @@ You can customize the appearance of the quotes by modifying the `quotes-of-the-d
 ## License
 
 This plugin is licensed under the GPL-2.0+ License. You can find a copy of the license [here](https://www.gnu.org/licenses/gpl-2.0.html).
+
