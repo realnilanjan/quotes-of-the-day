@@ -41,7 +41,7 @@ You can change the font color of the displayed quotes through the plugin's setti
 
 ### Plugin Settings Page
 
-![Plugin Settings](screenshots/plugin-settings.png)
+![Plugin Settings](screenshots/Screenshot1.png)
 
 ## Frequently Asked Questions
 
