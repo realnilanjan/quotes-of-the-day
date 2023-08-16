@@ -39,9 +39,10 @@ You can change the font color of the displayed quotes through the plugin's setti
 4. Locate the "Font Color" option and select your desired font color using the color picker.
 5. Click the "Save Changes" button to apply the changes.
 
-### Plugin Settings Page
+### Plugin Settings
 
-![Plugin Settings](screenshots/Screenshot1.png)
+![Settings](screenshots/Screenshot1.png)
+![Settings](screenshots/Screenshot2.png)
 
 ## Frequently Asked Questions
 
