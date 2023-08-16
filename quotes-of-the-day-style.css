@@ -1,0 +1,42 @@
+/* Styling for the Quotes of the Day plugin */
+
+/* Customize the quote container */
+.quotes-of-the-day {
+    padding: 20px;
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    background-size: 300% 300%;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    animation: gradient-animation 10s linear infinite;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2); /* Adding a slight shadow */
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+/* Customize the quote text */
+.quotes-of-the-day h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+}
+
+/* Customize the author text */
+.quotes-of-the-day .author {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Customize the shortcode container */
+.quotes-of-the-day-wrapper {
+    margin-bottom: 20px;
+}

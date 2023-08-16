@@ -1,0 +1,56 @@
+# Quotes of the Day WordPress Plugin
+
+**Display random quotes of the day on your WordPress website!**
+
+![Plugin Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+![License](https://img.shields.io/badge/license-GPL--2.0%2B-blue.svg)
+
+## Description
+
+The Quotes of the Day plugin allows you to easily add a random quote of the day to your WordPress posts and pages using a simple shortcode. The plugin comes with a collection of inspiring quotes that will motivate and engage your website visitors.
+
+## Features
+
+- Display random quotes on your WordPress website.
+- Simple and easy-to-use shortcode integration.
+- A curated collection of motivational and insightful quotes.
+- Customizable to fit the look and feel of your website.
+
+## Installation
+
+1. Upload the `quotes-of-the-day` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+
+## Usage
+
+Use the shortcode `[quotes_of_the_day]` in your posts or pages to display a random quote of the day.
+
+## Customizing Styles
+
+To customize the appearance of the quotes, you can modify the `quotes-of-the-day-style.css` file located in the same directory as the main plugin file. Adjust the CSS rules to match your desired styling.
+
+## Frequently Asked Questions
+
+### How do I add my own quotes to the plugin?
+
+You can easily add your own quotes to the `$quotes` array in the plugin's main file.
+
+### How do I customize the appearance of the quotes?
+
+You can customize the appearance of the quotes by modifying the `quotes-of-the-day-style.css` file.
+
+## Changelog
+
+### 1.0
+
+- Initial release
+
+## Author
+
+- Name: Your Name
+- Website: [Your Website](https://www.yourwebsite.com/)
+
+## License
+
+This plugin is licensed under the GPL-2.0+ License. You can find a copy of the license [here](https://www.gnu.org/licenses/gpl-2.0.html).
+
