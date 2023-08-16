@@ -77,8 +77,7 @@ function quotes_of_the_day_settings_page()
         <p>This plugin was developed by Nilanjan Roy. You can find more about him on his website: <a
                 href="https://penandparchment.space/author/nilanjan/">https://penandparchment.space/author/nilanjan/</a></p>
         <h2>About the Plugin</h2>
-        <p>You can find more details on <a
-                href="https://penandparchment.space/author/nilanjan/">https://penandparchment.space/author/nilanjan/</a></p>
+        <p>You can find more details on <a href="https://github.com/realnilanjan/quotes-of-the-day" target="_blank">Github</a></p>
     </div>
     <?php
 }
