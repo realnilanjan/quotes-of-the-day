@@ -29,6 +29,20 @@ Use the shortcode `[quotes_of_the_day]` in your posts or pages to display a rand
 
 To customize the appearance of the quotes, you can modify the `quotes-of-the-day-style.css` file located in the same directory as the main plugin file. Adjust the CSS rules to match your desired styling.
 
+### Changing Font Color
+
+You can change the font color of the displayed quotes through the plugin's settings page:
+
+1. Go to your WordPress admin dashboard.
+2. Click on "Settings" in the left-hand menu.
+3. Click on "Quotes of the Day" to access the plugin's settings.
+4. Locate the "Font Color" option and select your desired font color using the color picker.
+5. Click the "Save Changes" button to apply the changes.
+
+### Plugin Settings Page
+
+![Plugin Settings](screenshots/plugin-settings.png)
+
 ## Frequently Asked Questions
 
 ### How do I add my own quotes to the plugin?
@@ -53,4 +67,3 @@ You can customize the appearance of the quotes by modifying the `quotes-of-the-d
 ## License
 
 This plugin is licensed under the GPL-2.0+ License. You can find a copy of the license [here](https://www.gnu.org/licenses/gpl-2.0.html).
-
