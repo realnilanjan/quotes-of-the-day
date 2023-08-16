@@ -18,7 +18,7 @@ The Quotes of the Day plugin allows you to easily add a random quote of the day 
 
 ## Installation
 
-1. Upload the `quotes-of-the-day` folder to the `/wp-content/plugins/` directory.
+1. Upload the `quotes-of-the-day` folder to the `/wp-content/plugins/` directory or download the ZIP file from [Github](https://github.com/realnilanjan/quotes-of-the-day) and upload using Add New Plugin option and upload.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 ## Usage
@@ -47,10 +47,9 @@ You can customize the appearance of the quotes by modifying the `quotes-of-the-d
 
 ## Author
 
-- Name: Your Name
-- Website: [Your Website](https://www.yourwebsite.com/)
+- Name: Nilanjan Roy
+- Website: [Pen & Parchment](https://penandparchment.space/author/nilanjan/)
 
 ## License
 
 This plugin is licensed under the GPL-2.0+ License. You can find a copy of the license [here](https://www.gnu.org/licenses/gpl-2.0.html).
-
