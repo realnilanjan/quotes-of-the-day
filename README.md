@@ -34,10 +34,10 @@ To customize the appearance of the quotes, you can modify the `quotes-of-the-day
 You can change the font color of the displayed quotes through the plugin's settings page:
 
 1. Go to your WordPress admin dashboard.
-2. Click on "Settings" in the left-hand menu.
-3. Click on "Quotes of the Day" to access the plugin's settings.
-4. Locate the "Font Color" option and select your desired font color using the color picker.
-5. Click the "Save Changes" button to apply the changes.
+2. Click on "**Settings**" in the left-hand menu.
+3. Click on "**Quotes of the Day**" to access the plugin's settings.
+4. Locate the "**Font Color**" option and select your desired font color using the color picker.
+5. Click the "**Save Changes**" button to apply the changes.
 
 ### Plugin Settings
 
